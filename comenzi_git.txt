@@ -11,3 +11,8 @@ ls                    # list - listeaza fisierele din folderul curent
 git add nume_fisier                    # adaugarea unui fisier in commit
 git commit -m "Aici va fi un mesaj"    # adaugarea unui mesaj pentru commit-ul respectiv
 git push                               # trimiterea commit -ului pe server 
+
+
+
+# comezi de status
+git --version                             # citeste versiunea de git actuala instalata
