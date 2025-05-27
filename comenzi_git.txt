@@ -17,3 +17,4 @@ git push                               # trimiterea commit -ului pe server
 # comezi de status
 git --version                             # citeste versiunea de git actuala instalata
 gti status                                # verifica statusul fisierelor (daca au fost modificate,adaugate aletele noi,sterse)
+git log                                   # istoric al tuturor commit-urilor
